@@ -19,8 +19,5 @@ Biogénesis busca expandirse en Latinoamérica, particularmente en Colombia, Arg
 
 ![Carátula del Proyecto](./Imagenes/caratula.png)
 
-## Enlace al Proyecto
 
-Dado el tamaño de los archivos y las limitaciones de GitHub, los datos y el código completo del proyecto están disponibles en el siguiente enlace de Google Drive:
 
-[Accede al Proyecto en Google Drive](https://drive.google.com/drive/folders/1hYl6M0VHs81Gq_W5RaegDfwTcDCM1laO?usp=sharing)
