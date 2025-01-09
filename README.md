@@ -19,5 +19,8 @@ Biogénesis busca expandirse en Latinoamérica, particularmente en Colombia, Arg
 
 ![Carátula del Proyecto](./Imagenes/caratula.png)
 
+🚧 **¡Este proyecto está siendo actualmente reconstruido!** 🚧
+
+
 
 
