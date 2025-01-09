@@ -1,21 +1,21 @@
 # Análisis para Laboratorio de Vacunación en COVID-19
 
-El proyecto tuvo objetivos de aprendizaje, se buscaba adquirir habilidades de análisis de datos con Python. Desde Henry, se nos propuso un trabajo que incluía 4 avances para lograr un análisis de los casos de COVID-19.
+Este proyecto tiene como objetivo adquirir habilidades de análisis de datos utilizando Python, enfocándose en la expansión estratégica de laboratorios y centros de vacunación en Biogénesis. A través de diversas etapas, se buscan identificar patrones y estrategias para optimizar la distribución de vacunas en Latinoamérica.
 
 ## Objetivos del Proyecto
 
 ### Expansión Estratégica de Laboratorios y Centros de Vacunación en Biogénesis
 
-Biogénesis busca expandirse en Latinoamérica, particularmente en Colombia, Argentina, Chile, México, Perú y Brasil, para mejorar el acceso a las vacunas en estos países.
+Biogénesis tiene como meta expandir su presencia en Latinoamérica, con un enfoque especial en los países de Colombia, Argentina, Chile, México, Perú y Brasil. Este esfuerzo está orientado a mejorar el acceso a las vacunas y garantizar una distribución eficiente.
 
-### Enfoque del Análisis
+### Áreas Clave de Análisis
 
-- Ubicaciones estratégicas para la expansión
-- Incidencia del COVID-19
-- Tasas de vacunación
-- Disponibilidad de infraestructuras sanitarias
-- Demanda de vacunas
-- Logística de distribución
+- **Ubicación estratégica para la expansión:** Determinar las regiones más adecuadas para el establecimiento de nuevos centros de vacunación.
+- **Incidencia del COVID-19:** Evaluar la gravedad de la pandemia en cada país y su impacto en la capacidad de respuesta sanitaria.
+- **Tasas de vacunación:** Analizar la cobertura y el progreso de la vacunación en cada país.
+- **Infraestructura sanitaria:** Estudiar la disponibilidad de recursos y centros de salud que soporten el proceso de vacunación.
+- **Demanda de vacunas:** Estimar las necesidades de vacunación según la población y la distribución geográfica.
+- **Logística de distribución:** Examinar los desafíos logísticos relacionados con el transporte y la distribución de las vacunas.
 
 ![Carátula del Proyecto](./Imagenes/caratula.png)
 
