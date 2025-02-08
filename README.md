@@ -19,12 +19,6 @@ Biogénesis tiene como meta expandir su presencia en Latinoamérica, con un enfo
 
 ![Carátula del Proyecto](./Imagenes/caratula.png)
 
----
-
-# 🚧 ¡Este proyecto está  siendo actualmente reconstruido! 🚧
-
----
-
 
 
 
